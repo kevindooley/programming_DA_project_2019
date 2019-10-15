@@ -1,0 +1,7 @@
+https://www.tutorialspoint.com/numpy/numpy_data_types.htm
+
+https://www.datacamp.com/community/tutorials/python-numpy-tutorial
+
+http://cs231n.github.io/python-numpy-tutorial/
+
+https://docs.scipy.org/doc/numpy/reference/generated/numpy.array.html
