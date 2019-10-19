@@ -11,3 +11,9 @@ http://localhost:8888/?token=175abab4c0d0df07ed13af1586d2d3d039e98843b9014fbe
 https://docs.scipy.org/doc/numpy-1.15.1/reference/generated/numpy.random.rand.html
 
 https://www.tutorialspoint.com/statistics/simple_random_sampling.htm
+
+https://www.geeksforgeeks.org/numpy-random-randn-python/
+
+https://docs.scipy.org/doc/numpy-1.14.1/reference/generated/numpy.random.randint.html#numpy-random-randint
+
+https://docs.scipy.org/doc/numpy-1.14.1/reference/generated/numpy.random.randn.html#numpy-random-randn
