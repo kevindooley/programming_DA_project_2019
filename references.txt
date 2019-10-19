@@ -5,3 +5,9 @@ https://www.datacamp.com/community/tutorials/python-numpy-tutorial
 http://cs231n.github.io/python-numpy-tutorial/
 
 https://docs.scipy.org/doc/numpy/reference/generated/numpy.array.html
+
+http://localhost:8888/?token=175abab4c0d0df07ed13af1586d2d3d039e98843b9014fbe
+
+https://docs.scipy.org/doc/numpy-1.15.1/reference/generated/numpy.random.rand.html
+
+https://www.tutorialspoint.com/statistics/simple_random_sampling.htm
