@@ -17,3 +17,13 @@ https://www.geeksforgeeks.org/numpy-random-randn-python/
 https://docs.scipy.org/doc/numpy-1.14.1/reference/generated/numpy.random.randint.html#numpy-random-randint
 
 https://docs.scipy.org/doc/numpy-1.14.1/reference/generated/numpy.random.randn.html#numpy-random-randn
+
+https://pythonbasics.org/seaborn-distplot/
+
+https://www.datacamp.com/community/tutorials/probability-distributions-python
+
+https://www.codecademy.com/articles/seaborn-design-i
+
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.binom.html#scipy-stats-binom
+
+https://www.tutorialspoint.com/python_data_science/python_binomial_distribution.htm
