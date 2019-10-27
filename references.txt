@@ -27,3 +27,11 @@ https://www.codecademy.com/articles/seaborn-design-i
 https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.binom.html#scipy-stats-binom
 
 https://www.tutorialspoint.com/python_data_science/python_binomial_distribution.htm
+
+https://www.sharpsightlabs.com/blog/numpy-random-normal/
+
+https://docs.scipy.org/doc/numpy-1.14.0/reference/generated/numpy.random.uniform.html#numpy.random.uniform
+
+http://hplgit.github.io/primer.html/doc/pub/random/._random-readable001.html
+
+
