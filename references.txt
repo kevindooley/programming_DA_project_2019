@@ -36,3 +36,12 @@ http://hplgit.github.io/primer.html/doc/pub/random/._random-readable001.html
 
 https://pynative.com/python-random-seed/
 
+https://www.geeksforgeeks.org/numpy-in-python-set-1-introduction/S
+
+https://osmancakir.io/python/python_4_data_analysis_with_numpy/
+
+https://mediuhttps://medium.com/@vsvaibhav2016/basics-of-numpy-python-for-data-analysis-45b0c43f591bm.com/@vsvaibhav2016/basics-of-numpy-python-for-data-analysis-45b0c43f591b
+
+https://towardsdatascience.com/practical-numpy-understanding-python-library-through-its-functions-adf2e3841894
+
+https://webcourses.ucf.edu/courses/1249560/pages/python-lists-vs-numpy-arrays-what-is-the-difference
