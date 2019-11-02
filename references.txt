@@ -34,4 +34,5 @@ https://docs.scipy.org/doc/numpy-1.14.0/reference/generated/numpy.random.uniform
 
 http://hplgit.github.io/primer.html/doc/pub/random/._random-readable001.html
 
+https://pynative.com/python-random-seed/
 
