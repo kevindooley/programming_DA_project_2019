@@ -45,3 +45,19 @@ https://mediuhttps://medium.com/@vsvaibhav2016/basics-of-numpy-python-for-data-a
 https://towardsdatascience.com/practical-numpy-understanding-python-library-through-its-functions-adf2e3841894
 
 https://webcourses.ucf.edu/courses/1249560/pages/python-lists-vs-numpy-arrays-what-is-the-difference
+
+http://cmdlinetips.com/2018/03/probability-distributions-in-python/
+
+https://docs.scipy.org/doc/numpy-1.14.1/reference/generated/numpy.random.beta.html#numpy.random.beta
+
+https://stephens999.github.io/fiveMinuteStats/beta.html
+
+https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.random.choice.html
+
+https://www.sharpsightlabs.com/blog/numpy-random-choice/
+
+https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.random.exponential.html
+
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.expon.html
+
+http://omz-software.com/pythonista/numpy/reference/generated/numpy.random.exponential.html
