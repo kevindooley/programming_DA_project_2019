@@ -1,7 +1,7 @@
 # Programming for Data Analysis Project 2019
 #### By: Kevin Dooley
 
-![](all3.png)
+![](images/all3.png)
 
 ## Title: Tutorial/Review on the 'NumPy' package in Python
 
