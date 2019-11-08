@@ -26,8 +26,8 @@ The objectives of the project are as follows:
 9. Sometimes, the jupyter notebook does not always load on Githib, you can also view on nbviewer using the link https://nbviewer.jupyter.org/github/kevindooley/programming_DA_project_2019/tree/master/
 
 ### Table of Contents
-1.What is NumPy
-   1. NumPy Arrays
+1. What is NumPy
+    1. NumPy Arrays
     2. Getting started with NumPy
 2. Simple Random data and Permutations
     1. Define simple random data
