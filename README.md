@@ -27,19 +27,19 @@ The objectives of the project are as follows:
 
 ### Table of Contents
 1. What is NUmPy
-  1. NumPy Arrays
-__1.2 Getting started with NumPy
-_2. Simple Random data and Permutations
-__2.1 Define simple random data
-__2.2 Random data permutations
-_3. Distribution Functions
-__3.1 Binomial Distribution
-__3.2 Normal Distribution
-__3.3 Uniform Distribution
-__3.4 Beta Distribution
-__3.5 Poisson Distribution
-__3.6 Exponential Distribution
-_4. The function of seeds in generating pseudo random numbers
-_5. Conclusion
-_6. References
+    1. NumPy Arrays
+    2. Getting started with NumPy
+2. Simple Random data and Permutations
+2.1 Define simple random data
+2.2 Random data permutations
+3. Distribution Functions
+3.1 Binomial Distribution
+3.2 Normal Distribution
+3.3 Uniform Distribution
+3.4 Beta Distribution
+3.5 Poisson Distribution
+3.6 Exponential Distribution
+4. The function of seeds in generating pseudo random numbers
+5. Conclusion
+6. References
 
