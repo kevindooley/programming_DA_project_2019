@@ -27,8 +27,8 @@ The objectives of the project are as follows:
 
 ### Table of Contents
 1.What is NumPy
-    1. NumPy Arrays
-   2. Getting started with NumPy
+   1. NumPy Arrays
+    2. Getting started with NumPy
 2. Simple Random data and Permutations
     1. Define simple random data
     2. Random data permutations
