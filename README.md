@@ -16,7 +16,7 @@ The objectives of the project are as follows:
 ### Getting Started
 
 1.  If not already installed, download and install Python 3.
-2.  Recommend downloading python via Anaconda to get useful additional software including JUpyter and Ipython. BY downloading Anacoda you will also get the 'NumPy' package already built into Python.
+2.  Recommend downloading python via Anaconda to get useful additional software including Jupyter and iPython. By downloading Anacoda you will also get the 'NumPy' package already built into Python.
 3.  Download and install a command prompt - recommend Cmder (Windows) or Terminal (Mac).
 4. To run the jupyter notebook on your computer you will need to download the .pynb to your desktop using the clone tab on my Github repository.
 5. Once download to your desktop, open your command line
